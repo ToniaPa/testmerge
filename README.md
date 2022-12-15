@@ -1,2 +1,1 @@
-# testmerge
-*Github change*
+# testmerge *Github change*
